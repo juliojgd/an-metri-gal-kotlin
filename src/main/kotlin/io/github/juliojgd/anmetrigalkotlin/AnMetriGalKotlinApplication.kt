@@ -1,11 +1,11 @@
-package juliojgd.kotlin.anmetrigal
+package io.github.juliojgd.anmetrigalkotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class AnMetriGalApplication
+class AnMetriGalKotlinApplication
 
 fun main(args: Array<String>) {
-    runApplication<AnMetriGalApplication>(*args)
+	runApplication<AnMetriGalKotlinApplication>(*args)
 }
