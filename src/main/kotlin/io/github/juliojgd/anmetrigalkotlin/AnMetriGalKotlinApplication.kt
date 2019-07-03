@@ -12,9 +12,9 @@ import java.util.concurrent.ConcurrentHashMap
 class AnMetriGalKotlinApplication
 
 fun main(args: Array<String>) {
-	
 
-	println("Sample:${sample.toString()}")
+
+
 	runApplication<AnMetriGalKotlinApplication>(*args)
 }
 
