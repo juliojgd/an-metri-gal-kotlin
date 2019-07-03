@@ -1,0 +1,15 @@
+anmetrigal:
+  config:
+    silaba-tonica-marker: '#'
+    estrofa-separator: '@'
+    estructura-estrofas:
+      pareado:
+        name: pareado
+        esquema:
+          esquema-string: aa
+        tipo-rima: CONSONANTE
+      terceto:
+        name: terceto
+        esquema:
+          esquema-string: aba
+        tipo-rima: CONSONANTE
