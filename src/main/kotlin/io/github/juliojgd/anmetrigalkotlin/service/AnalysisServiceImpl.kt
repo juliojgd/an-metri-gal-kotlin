@@ -1,7 +1,7 @@
 package io.github.juliojgd.anmetrigalkotlin.service
 
+import io.github.juliojgd.anmetrigalkotlin.config.AnMetriGalProperties
 import io.github.juliojgd.anmetrigalkotlin.domain.structure.EstructuraEstrofa
-import io.github.juliojgd.anmetrigalkotlin.AnMetriGalProperties
 import org.springframework.stereotype.Service
 import java.util.stream.Collectors
 
